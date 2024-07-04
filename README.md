@@ -1,4 +1,4 @@
-## Frontend Guide of "My Lab Buddy"
+## Frontend Guide of `MLB`
 
 > Simplicity is Elegance.
 
