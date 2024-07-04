@@ -1,4 +1,4 @@
-## Frontend Guide of `MLB`
+## Frontend Guide of MLB
 
 > Simplicity is Elegance.
 
