@@ -14,10 +14,12 @@
 - VS Code
 - React JS
 - NPM
+- NODE JS
 
 ### Important Websites
 
 - [React - Official](https://react.dev/)
+- [NPM](https://www.npmjs.com/)
 - [Make your web pages fast on all devices](https://pagespeed.web.dev/)
 - [Checkbot finds SEO, speed & security problems before your website visitors do](https://www.checkbot.io/)
 
