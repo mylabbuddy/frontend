@@ -15,6 +15,7 @@
 - React JS
 - NPM
 - NODE JS
+- Tailwind CSS
 
 ### Important Websites
 
