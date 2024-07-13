@@ -16,6 +16,29 @@
 - NPM
 - NODE JS
 - EXPRESS JS
+- Internet
+- Version Control Systems
+- VCS Hosting
+- Package Managers
+- Writing Css
+- Pick of frame work
+- Css Architecture
+- Css Preprocessors
+- Bulid Tolls 
+- Linters and Formatters
+- Module Bundlers
+- Web securitey Basics
+- Web components
+- Authentication Strategies
+- Tseting
+- Type checkers
+- SSR
+- GraphQL
+- PWAs
+- Static Site Generators
+- Mobile Apps
+- Desktop Apps
+
 
 ### Important Websites
 
