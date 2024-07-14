@@ -122,6 +122,7 @@
 - [Make your web pages fast on all devices](https://pagespeed.web.dev/)
 - [Checkbot finds SEO, speed & security problems before your website visitors do](https://www.checkbot.io/)
 - [Git - Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Markdown Lint](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md)
 
 ### License
 
